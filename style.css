@@ -1,0 +1,72 @@
+#jump {
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  background-color: royalblue;
+  box-shadow: 10px 5px 5px gray;
+  border: 5px solid black;
+  text-align: center;
+}
+
+#header {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: black;
+  padding: 350px 10px 350px 10px;
+  margin: 10px 10px 10px 10px;
+  background-color: slategray;
+  box-shadow: 10px 5px 5px gray;
+  border: 5px solid black;
+}
+
+#Intro_p {
+  color: darkred;
+}
+
+#about {
+  color: black;
+  padding: 10px;
+}
+
+#worklink {
+  color: black;
+  padding: 10px;
+}
+
+#contactlink {
+  color: black;
+  padding: 10px;
+}
+
+#worklinks {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: black;
+  padding: 50px 10px 50px 10px;
+  margin: 10px 10px 10px 10px;
+  background-color: royalblue;
+  box-shadow: 10px 5px 5px gray;
+  border: 5px solid black;
+}
+
+#infaux {
+  color: black;
+  padding: 30px;
+}
+
+#surveyform {
+  color: black;
+  padding: 30px;
+}
+
+#contact {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: black;
+  padding: 50px 10px 50px 10px;
+  margin: 10px 10px 10px 10px;
+  background-color: slategray;
+  box-shadow: 10px 5px 5px gray;
+  border: 5px solid black;
+}
